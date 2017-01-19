@@ -8,9 +8,9 @@
     "jogKinx": "x"
   },
   "studio-open-git": {
-    "https://gist.github.com/b658b80a152ed2134489d7c9f94c1273.git:camera.groovy": [
-      "https://gist.github.com/b658b80a152ed2134489d7c9f94c1273.git",
-      "camera.groovy"
+    "https://github.com/NeuronRobotics/java-bowler.git:.idea/compiler.xml": [
+      "https://github.com/NeuronRobotics/java-bowler.git",
+      ".idea/compiler.xml"
     ]
   },
   "BowlerStudioConfigs": {
