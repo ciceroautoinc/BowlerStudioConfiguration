@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/b658b80a152ed2134489d7c9f94c1273.git:camera.groovy": [
+      "https://gist.github.com/b658b80a152ed2134489d7c9f94c1273.git",
+      "camera.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.20.3",
     "skinBranch": "0.20.3",
